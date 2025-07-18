@@ -1,5 +1,5 @@
 # Simulation-and-analysis-of-Three-Phase-6-Pulse-Rectifier
-In this project as the name suggests, a Three-Phase 6 pulse rectifier has been simulated on simulink.
+In this project, as the name suggests a Three-Phase 6 pulse rectifier has been simulated on simulink.
 The simulink file in (.slx) format has been attached for anyone who wants to simulate the model.
 The per phase source voltage is kept 254V at 50Hz so as to obtain 440V line voltage which can be observed at the output display block.
 A doide block containing series R-C Snubber circuit has been used. Default values are used for snubber resistance and capacitance.
